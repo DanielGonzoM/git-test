@@ -1,5 +1,0 @@
-Un cambio. 
-
-Un cambio desde master.
-
-Otro cambio desde github
